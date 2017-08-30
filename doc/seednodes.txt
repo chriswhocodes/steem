@@ -34,3 +34,4 @@ seed.bitcoiner.me:2001         # bitcoiner
 138.197.17.188:2001            # chitty
 88.99.33.113:2001              # cervantes
 seed.bhuz.info:2001            # bhuz
+45.76.140.222:2001             # chillbill
